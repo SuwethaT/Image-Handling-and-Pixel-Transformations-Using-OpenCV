@@ -297,29 +297,53 @@ plt.show()
 ## Output:
 ---
 #1. Original image displayed using OpenCV and Matplotlib.
+
 <img width="676" height="573" alt="image" src="https://github.com/user-attachments/assets/30f8d4f5-529c-41c6-9c7c-256c4781d62a" />
+
 #2. Image with a line drawn from the top-left to the bottom-right.
+
 <img width="695" height="562" alt="image" src="https://github.com/user-attachments/assets/431281df-a052-47ee-9954-dc17aba778ae" />
+
 #3. Image with a line drawn from the bottom-right to the top-left.
+
 <img width="650" height="562" alt="image" src="https://github.com/user-attachments/assets/a96dd48b-3f9d-4da7-af21-916a549cbf61" />
+
 #4. Image with Rectangle.
+
 <img width="607" height="567" alt="image" src="https://github.com/user-attachments/assets/c69f2d73-4681-4055-8378-04f9433d779b" />
+
 #5. Image with text.
+
 <img width="587" height="560" alt="image" src="https://github.com/user-attachments/assets/54dfbcb3-d67e-4187-aa3f-e256f62368e8" />
+
 #6. HSV Image.
+
 <img width="607" height="557" alt="image" src="https://github.com/user-attachments/assets/4b573bcb-e22e-49eb-9db5-15e3d69b6cad" />
+
 #7. Grayscale Image.
+
 <img width="628" height="566" alt="image" src="https://github.com/user-attachments/assets/10ac17fd-f271-4245-be6a-9f0714fd410f" />
+
 #8. Modified Image.
+
 <img width="642" height="587" alt="image" src="https://github.com/user-attachments/assets/2f18b69b-1777-4884-8d6b-f8160c986354" />
+
 #9. Resized Image.
+
 <img width="637" height="557" alt="image" src="https://github.com/user-attachments/assets/d59c4f44-6c9e-4962-ba3a-3f190b48526b" />
+
 #10. Cropped Image.
+
 <img width="622" height="570" alt="image" src="https://github.com/user-attachments/assets/515168ce-7f49-45ca-894a-e8cdcf28d0d0" />
+
 #11. Horixontal Flipped Image.
+
 <img width="635" height="557" alt="image" src="https://github.com/user-attachments/assets/6cab5248-3108-4ab9-916f-5da2f6bf45bd" />
+
 #12. Vertically Flipped Image.
+
 <img width="657" height="560" alt="image" src="https://github.com/user-attachments/assets/210f3c9e-bc34-4bca-a1a5-a41c0800964e" />
+
 ---
 
 ## Result:
